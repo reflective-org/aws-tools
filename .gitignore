@@ -1,6 +1,8 @@
 # macOS Finder metadata
 .DS_Store
 
+.terraform.lock.hcl
+
 # Local .terraform directories
 .terraform/
 
